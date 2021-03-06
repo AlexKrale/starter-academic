@@ -10,7 +10,7 @@ role: Senior Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Encore
+- name: Fashion Shopping Re-imagined
   url: https://www.theencore.app/
 
 # Short bio (displayed in user profile at end of posts)
