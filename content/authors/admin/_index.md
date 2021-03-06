@@ -6,11 +6,11 @@ title: Alex Krale
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Encore
   url: https://www.theencore.app/
 
 # Short bio (displayed in user profile at end of posts)
